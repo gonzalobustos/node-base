@@ -7,8 +7,8 @@
     "url": "https://github.com/gonzalobustos/node-base.git"
   },
   "author": {
-    "name" : "Gonzalo Bustos",
-    "email" : "hello@gonzalobustos.com"
+    "name": "Gonzalo Bustos",
+    "email": "hello@gonzalobustos.com"
   },
   "license": "MIT",
   "scripts": {
